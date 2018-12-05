@@ -1,4 +1,4 @@
-# Advent of code - Day one
+# Advent of code - Day One
 
 # Read data file, slit lines into a list
 with open('input.txt', 'r') as f:
